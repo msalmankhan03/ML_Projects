@@ -49,7 +49,7 @@ Natural Language Processing (NLP)
 Text Vectorization
 Sentiment Analysis
 🛠️ Technologies Used
-Python 🐍
+Python 
 NumPy
 Pandas
 Scikit-learn
